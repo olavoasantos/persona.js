@@ -1,0 +1,23 @@
+{
+  "name": "persona.js",
+  "version": "0.0.0",
+  "description": "A simple and readable way to mock interactions with the DOM for your tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olavoasantos/persona.js.git"
+  },
+  "keywords": [
+    "DOM",
+    "interaction"
+  ],
+  "author": "Olavo Amorim Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olavoasantos/persona.js/issues"
+  },
+  "homepage": "https://github.com/olavoasantos/persona.js#readme"
+}
